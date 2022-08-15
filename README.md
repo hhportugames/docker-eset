@@ -36,4 +36,8 @@ WantedBy=multi-user.target
 systemctl enable eset.service 
 systemctl start eset.service
 ```
-
+```
+  10. login 
+```
+http://127.0.0.1:8080
+Administrator / password
